@@ -1,0 +1,9 @@
+TOPICS: 
+- Array
+- Hash Table
+- Divide and Conquer
+- Sorting
+- Counting
+
+LINK:
+https://leetcode.com/problems/majority-element?envType=study-plan-v2&envId=top-interview-150
